@@ -1,5 +1,189 @@
 {
   "users": [
+    {
+      "username": "vivek",
+      "email": "gtatterton0@ehow.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "username": "chunnu",
+      "email": "a@gmail.com",
+      "password": "12345",
+      "id": 2
+    }
+  ],
+  "trcker": [
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Income",
+      "category": "Salary",
+      "amount": 45000,
+      "date": "2023-06-06",
+      "id": 1
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Income",
+      "category": "Gifts",
+      "amount": 25000,
+      "date": "2023-06-03",
+      "id": 2
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Income",
+      "category": "Refunds",
+      "amount": 15000,
+      "date": "2023-06-04",
+      "id": 3
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Expense",
+      "category": "Food & Drinks",
+      "amount": 1200,
+      "date": "2023-06-04",
+      "id": 4
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 10000,
+      "date": "2023-06-04",
+      "id": 5
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Expense",
+      "category": "Housing",
+      "amount": 15000,
+      "date": "2023-06-04",
+      "id": 6
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": 1000,
+      "date": "2023-06-04",
+      "id": 7
+    },
+    {
+      "token": "vivek1686036669477",
+      "username": "vivek",
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": 2000,
+      "date": "2023-06-04",
+      "id": 8
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Income",
+      "category": "Salary",
+      "amount": 500000,
+      "date": "2023-06-01",
+      "id": 9
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Income",
+      "category": "Gifts",
+      "amount": 5000,
+      "date": "2023-06-01",
+      "id": 10
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Income",
+      "category": "Refunds",
+      "amount": 5000,
+      "date": "2023-06-01",
+      "id": 11
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Income",
+      "category": "Other",
+      "amount": 500,
+      "date": "2023-06-01",
+      "id": 12
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Expense",
+      "category": "Food & Drinks",
+      "amount": 500,
+      "date": "2023-06-01",
+      "id": 13
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": 12000,
+      "date": "2023-06-01",
+      "id": 14
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Expense",
+      "category": "Housing",
+      "amount": 10000,
+      "date": "2023-06-01",
+      "id": 15
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Expense",
+      "category": "Bills",
+      "amount": 1000,
+      "date": "2023-06-01",
+      "id": 16
+    },
+    {
+      "token": "chunnu1686036918912",
+      "username": "chunnu",
+      "type": "Expense",
+      "category": "Vehicle & Transport",
+      "amount": 4000,
+      "date": "2023-06-01",
+      "id": 17
+    },
+    {
+      "token": "vivek1686038145184",
+      "username": "vivek",
+      "type": "Income",
+      "category": "Refunds",
+      "amount": 1400,
+      "date": "2023-06-03",
+      "id": 18
+    },
+    {
+      "token": "vivek1686038145184",
+      "username": "vivek",
+      "type": "Income",
+      "category": "Refunds",
+      "amount": 1400,
+      "date": "2023-06-03",
+      "id": 19
+    }
   ]
-  
 }
